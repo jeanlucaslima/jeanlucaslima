@@ -14,7 +14,7 @@ I really dig projects that really value user experience first. I love all phases
 
 * Go
 * JavaScript
-* Flutter
+* React Native
 
 ## What I'm up to right now
 
