@@ -17,8 +17,7 @@ I'm also open to collaborate in open source projects!
 
 ## What I'm up to right now
 
-* I'm work with [Bad Gateway](https://badgateway.net/), but open for new projects.
-* I'm volunteering with [Curveball.js](https://curveballjs.org/), a library to build better Node APIs without Express.
+* Open up for new projects :-)
 
 ## How to reach me
 Reach me through my e-mail address, and/or through [linkedin](https://www.linkedin.com/in/jeanlucaslima/), or [twitter](https://twitter.com/aleattorium).
