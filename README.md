@@ -8,16 +8,13 @@ I work with technology since 2010, been dooing applications for web, and even fo
 
 ## What I am looking for
 
-I really dig projects that really value user experience first. I love all phases of a project, from a napkin idea to scaling a project to thousands of users. Some technologies I'm looking forward to work with:
+I really dig projects that want to make user lives better. Doesn't really matter if it's an early stage or more mature project. I'm always happy to talk, even if just for an opinion. 
 
-* Go
-* JavaScript
-
-I'm also open to collaborate in open source projects!
+~I'm also open to collaborate in open source projects!~ Currently I'm dedicated to a new project.
 
 ## What I'm up to right now
 
-* Open up for new projects :-)
+* Right now I'm being CTO at a Brazilian startup called [Dei Um Tempo](https://deiumtempo.com) where we help people get rid of unwanted habits. 
 
 ## How to reach me
-Reach me through my e-mail address, and/or through [linkedin](https://www.linkedin.com/in/jeanlucaslima/), or [twitter](https://twitter.com/aleattorium).
+Reach me through my e-mail address, through [linkedin](https://www.linkedin.com/in/jeanlucaslima/), and/or [twitter](https://twitter.com/aleattorium).
